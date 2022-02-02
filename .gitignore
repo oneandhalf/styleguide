@@ -1,0 +1,17 @@
+# Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,jetbrains
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,jetbrains
+
+### JetBrains ###
+.idea/
+
+# IntelliJ
+out/
+
+### macOS ###
+# General
+.DS_Store
+
+### VisualStudioCode ###
+.vscode/
+
+# End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,jetbrains
