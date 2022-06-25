@@ -4,7 +4,7 @@
 
 - [Git Usage Guide](git/README.md)
 
-### 참고자료
+### References
 
 - [Google Style Guide](https://github.com/google/styleguide)
 - [뱅크샐러드 styleguide](https://github.com/banksalad/styleguide)
